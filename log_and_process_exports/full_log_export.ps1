@@ -1,10 +1,10 @@
 ##!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!##
-##IR Response Script, Version 2.1.2          ##
-##     Mods to skip csv export               ##
-##For Production Use, 11.30.2021!            ##
-##**Use for Full log export netstat changed  ##
-##PROPERTY OF BARRACUDA SKOUT XDR            ##
-##WRITTEN BY Ilan Finkelstein                ##
+##.     IR Response Script, Version 2.1.2    ##
+##           Mods to skip csv export         ##
+##.      For Production Use, 11.30.2021!     ##
+##  Use for Full log export netstat changed  ##
+##                                           ##
+##       WRITTEN BY Ilan Finkelstein         ##
 ##!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!##
 
 ##NOTE THIS SCRIPT MUST BE RUN AS AN ADMIN !!##
